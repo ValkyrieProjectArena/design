@@ -1,6 +1,18 @@
 # Combat
 ## (De)Buffs
-All non-instantaneous effects on a player are represented as Buffs (beneficial) or Debuffs (harmful). Status effects and crowd control included.
+All non-instantaneous effects on a player are represented as Buffs (beneficial) or Debuffs (harmful).
+
+### Crowd Control (CC)
+* _Movement_
+  * **Root**: No movement
+  * **Snare**: Reduced movement speed
+* _Casting_
+  * **Silence**: No casting
+  * **Slow**: Reduced cast speed
+* **Stun**: No movement and no casting (ie, Root+Silence)
+* **Blind**: Decreased vision
+* **Disorient**: Reverses movement direction (ie, `A` goes left, `W` goes backwards)
+
 
 ## Effectiveness
 Effectiveness is applied to all offensive abilities against their targets' defensive stats. It applies not only to damage, but _also debuff duration_.
@@ -24,7 +36,9 @@ f(def) = -0.5 * tanh(0.0147 * def) + 1
 ```
 ![effectiveness graph](./defense_graph.svg)
 
-#### Example: `armor=10, resistance=40, will=20`
+#### Example1
+`armor=10, resistance=40, will=20`
+
 (see [damage_calcs](./damage_calcs.ipynb))
 
 Damage effectiveness can be pre-calculated:
@@ -33,7 +47,6 @@ Damage effectiveness can be pre-calculated:
 |---|---|---|---|
 |**Value**|40.5|54.75|39.5|
 |**Damage Effectiveness**|73.3%|66.6%|73.8%|
-</br>
 
 **Damage profile (120 total)** shows the amount of damage taken for an ability with its damage evenly split between the types specified in the "Raw" column (eg, "Physical/Energy" means 60 Physical damage + 60 Energy damage). The Dmg Eff % gives the composite effectiveness (total taken / total raw).
 |Raw Type|Damage Taken|Net Damage Effectiveness|

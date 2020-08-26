@@ -1,5 +1,5 @@
 # Skill Tree
-Skill tree's primary purpose is to give players the ability to customize their characters a bit to their playstyle. These skill trees will be very similar to WoW's classic talent trees in terms of scale of options (10~20 skills) and that skill points are global and not per-tree.
+Skill tree's primary purpose is to give players the ability to customize their characters a bit to their play style. These skill trees will be very similar to WoW's classic talent trees in terms of scale of options (10~20 skills) and that skill points are global and not per-tree.
 
 Skills in these trees can be passive skills, new abilities, or enhancements to abilities.
 

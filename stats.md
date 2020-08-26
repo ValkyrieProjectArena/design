@@ -7,7 +7,7 @@ These are the primary stats which control the offensive and defensive capabiliti
 | Offensive | Defensive | Description | Examples |
 |-----------|-----------|-------------|----------|
 | Physical (P) | Armor (A) | Traditional physical type | Offensive: Punching, shooting bullets, explosions <br>Defensive: metal plating |
-| Energy (E) | Resistance (R) | Electrical, plasma, (insert SciFi element)-based | Offensive: Lightning bolts, energy weapons, plasma beams <br>Defensive: force fields |
+| Energy (E) | Resistance (R) | Electrical, plasma, (insert SciFi element) | Offensive: Lightning bolts, energy weapons, plasma beams <br>Defensive: force fields |
 | Psionic (S) | Will (W) | Psychic powers | Offensive: Horrification, hallucination, demoralizing <br>Defensive: psychic barriers |
 
 

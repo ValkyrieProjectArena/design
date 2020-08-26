@@ -1,4 +1,5 @@
 # Characters
+No duplicate characters on a team.
 
 ## Role
 Roles define the style of play - the goals of the character. We don't use the Holy Trinity (Tank, DPS, Healer) system because all roles can do damage. The goal is that any combination of roles is a viable, competitive composition. We borrow inspiration from D&D 4e class design for the character roles.
