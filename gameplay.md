@@ -4,7 +4,8 @@ The elevator pitch of the game is hybrid between League of Legends and World of 
 * Characters are chosen at the beginning of the match in a similar pick-ban style
 * There's no levelling up, neutral creeps, or buying items; power level doesn't change over the course of the game
 * There's no out-of-match game (ie, it's not an MMORPG)
-* Monetization is based around cosmetics (like LoL)
+
+One of the core and driving factors of the game is spectate-ability. How easy is it to watch a game and tell what's happening? Both for experienced players, but also novices or even complete newcomers. A huge driver for longevity on a PvP only game is going to be player retention which in these days is often tied to the competitive / professional scene.
 
 ## Telegraphs
 This mechanic first (or at least most prominently) appeared in WildStar. A good introductory video from their developers:

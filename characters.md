@@ -6,6 +6,8 @@ Roles define the style of play - the goals of the character. We don't use the Ho
 
 The roles are designed to ensure a good spread of capabilities; they're not intended to mean that characters can ONLY do those things, but rather that its their primary function.
 
+A core tenet of the role design is that **none of the roles should feel mandatory**.
+
 <table>
 <tr><th>Role</th><th>Description [1]</th></tr>
 
@@ -38,7 +40,7 @@ Defenders focus on drawing attention to themselves and away from their teammates
 
 We renamed Leader to Support due the conflict with the meta-game concept of a team leader (the person responsible for making team-level decisions or setting team-level goals/strategies).
 
-Support improve the efficacy of their team or their relative efficacy by diminishing the enemy's efficacy, to create baseline advantages.
+Supports improve the efficacy of their team or their relative efficacy by diminishing the enemy's efficacy, to create baseline advantages.
 </td>
 </tr>
 
